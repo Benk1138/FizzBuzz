@@ -1,0 +1,5 @@
+/Users/benkunkel/Projects/FizzBuzz/FizzBuzz/obj/Debug/net6.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/benkunkel/Projects/FizzBuzz/FizzBuzz/obj/Debug/net6.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benkunkel/Projects/FizzBuzz/FizzBuzz/obj/Debug/net6.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/benkunkel/Projects/FizzBuzz/FizzBuzz/obj/Debug/net6.0/FizzBuzz.AssemblyInfo.cs
+/Users/benkunkel/Projects/FizzBuzz/FizzBuzz/obj/Debug/net6.0/FizzBuzz.csproj.CoreCompileInputs.cache
